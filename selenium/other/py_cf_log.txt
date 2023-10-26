@@ -1,0 +1,30 @@
+2023-10-26 12:33:08,271 - ====== WebDriver manager ======
+2023-10-26 12:33:09,304 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:33:09,731 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:33:10,042 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 12:33:17,790 - 2023-10-26 12:33:17  抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
+2023-10-26 12:38:21,364 - ====== WebDriver manager ======
+2023-10-26 12:38:22,439 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:38:22,879 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:38:23,321 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 12:38:31,102 -   抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
+2023-10-26 12:46:23,166 - ====== WebDriver manager ======
+2023-10-26 12:46:24,235 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:46:24,588 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:46:24,995 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 12:46:32,779 -   抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
+2023-10-26 12:48:43,513 - ====== WebDriver manager ======
+2023-10-26 12:48:44,586 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:48:44,971 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 12:48:45,374 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 12:48:53,742 -   抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
+2023-10-26 16:12:41,619 - ====== WebDriver manager ======
+2023-10-26 16:12:42,850 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 16:12:43,191 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 16:12:43,502 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 16:12:51,319 -   抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
+2023-10-26 16:34:21,538 - ====== WebDriver manager ======
+2023-10-26 16:34:22,845 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 16:34:23,210 - Get LATEST edgedriver version for Edge 118.0.2088
+2023-10-26 16:34:23,529 - Driver [C:\Users\Acer\.wdm\drivers\edgedriver\win64\118.0.2088.69\msedgedriver.exe] found in cache
+2023-10-26 16:34:31,391 -   抱歉，该奖励已被领取完毕，请选择其他奖励领取！ 
